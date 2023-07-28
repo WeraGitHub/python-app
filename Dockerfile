@@ -21,4 +21,4 @@ COPY . /app
 ENTRYPOINT [ "python3" ]
 
 # TODO: set the command parameter to the app.py file
-CMD [ "python", "app.py"]
+CMD [ "app.py" ]
