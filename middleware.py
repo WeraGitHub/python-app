@@ -6,15 +6,15 @@ import tzlocal
 
 
 def hello():
-    return "<h1 style='color:teal'>Hello from Python Flask</h1>"
+    return "<h1 style='color:teal'>Hello from Weronika</h1>"
 
 
 def hello2():
-    return jsonify({"msg": "Hello from Python"})
+    return jsonify({"msg": "Hello from Weronika"})
 
 
 def bye2():
-    return jsonify({"msg": "Goodbye from Python"})
+    return jsonify({"msg": "Goodbye from Weronika"})
 
 
 def bye():
